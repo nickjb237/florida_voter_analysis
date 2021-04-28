@@ -100,7 +100,7 @@ def load_county( county, string ):
     # Loads a county's voter registration file so this process doesn't repeat itself.
     # Of course, now we have to manually add these files but in the end it saves time.
         # Voter file organization
-    filepath = "C:/Users/Nick/OneDrive/school/classwork/Research/Code/20200107_VoterDetail/"
+    filepath = "20200107_VoterDetail/"
     ext = "_20200107.txt"
     
     filename = filepath+county+ext
